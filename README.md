@@ -1,5 +1,5 @@
 # TD2
 
-## Implémentation de la couche infrastrcture du projet Circular Buffer
+### Implémentation de la couche infrastructure du projet Circular Buffer
 
-### Julien SANCHEZ 3A STI
+#### Julien SANCHEZ 3A STI
